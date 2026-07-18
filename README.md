@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Samit Gupta<br><br>🎓 Second-year B.Tech Computer Science student at UEM Kolkata  <br>💻 Interested in Software Engineering, Web Development, and Problem Solving  <br>🧠 Currently focusing on Data Structures & Algorithms  <br>🚀 Hackathon winner & team lead (CreaXion Hackathon 2025)  <br>📊 Built Java and web-based projects, including a business risk prediction system  <br>🔬 Working on a research paper in multi-agent robotic coordination  <br><br>I enjoy building practical systems, understanding core CS fundamentals, <br>and improving my problem-solving skills through consistent practice.<br>
+👋 Hi, I’m Samit Gupta<br><br>🎓 Third-year B.Tech Computer Science student at UEM Kolkata  <br>💻 Interested in Software Engineering, Web Development, and Problem Solving  <br>🧠 Currently focusing on Data Structures & Algorithms  <br>🚀 Hackathon winner & team lead (CreaXion Hackathon 2025)  <br>📊 Built Java and web-based projects, including a business risk prediction system  <br>🔬 Working on a research paper in multi-agent robotic coordination  <br><br>I enjoy building practical systems, understanding core CS fundamentals, <br>and improving my problem-solving skills through consistent practice.<br>
 
 
 ## 🌐 Socials:
